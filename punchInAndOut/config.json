@@ -1,0 +1,16 @@
+{
+  "wx": {
+    "auth_path": "https://api.weixin.qq.com/sns/jscode2session?appid={APPID}&secret={SECRET}&js_code={JSCODE}&grant_type=authorization_code",
+    "APPID": "wx9cde1eb12d4144b1",
+    "SECRET": "5ad31e97b91d81566f85258924e8f661"
+  },
+  "db": {
+    "database": "punch",
+    "user": "root",
+    "password": "@Ytx1994",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "max_connections": 16,
+    "stale_timeout": 300
+  }
+}
